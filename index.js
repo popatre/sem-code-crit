@@ -1,5 +1,4 @@
 var counter = 0;
-
 function count() {
     for (let x in myArr) {
         counter += myArr[x];
